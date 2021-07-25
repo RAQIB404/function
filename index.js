@@ -17,4 +17,4 @@ console.log(res);
 var y=function(){
     console.log("y is called")
 }
-y();prints:y is called
+//y(); prints:y is called
